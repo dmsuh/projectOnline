@@ -1,0 +1,1 @@
+import{r,C as n,o as u,c as s}from"./index.a3b2e79c.js";function o(){const e=r(!n.value);return e.value===!1&&u(()=>{e.value=!0}),e}const d={dark:{type:Boolean,default:null}};function l(e,a){return s(()=>e.dark===null?a.dark.isActive:e.dark)}export{d as a,l as b,o as u};
