@@ -1,0 +1,1 @@
+import{b as e}from"./index.ca4b52c1.js";import{c as r}from"./vue-yandex-maps.d948f12f.js";var s=e(async({app:a,router:o})=>{a.use(r({apikey:"4641523c-40ae-448c-8ce4-210a2bb32e36"}))});export{s as default};
