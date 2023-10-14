@@ -1,0 +1,1 @@
+import{b as a}from"./index.c9eaf854.js";import{O as r}from"./vue-yandex-maps.esm.38fdfb25.js";var f=a(async({app:e,router:t})=>{const o={apiKey:"eb81f49d-9d2a-490e-99fd-8743cfee4a7a",lang:"ru_RU",coordorder:"longlat",debug:!1,version:"2.1"};e.use(r,o)});export{f as default};
